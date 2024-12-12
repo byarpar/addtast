@@ -2,4 +2,4 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "root";
+$dbname = "task_manager";
